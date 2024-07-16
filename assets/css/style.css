@@ -23,3 +23,20 @@ body {
   cursor: move;
   margin-bottom: 10px;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+.header,
+.custom-modal-header,
+.custom-card-header,
+.btn-custom {
+  background-color: var(--darkblue);
+  color: var(--light);
+} 
